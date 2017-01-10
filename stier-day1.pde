@@ -12,5 +12,5 @@ void draw () {
     
   }
   
-  ellipse(mouseX, mouseY, 50, 50);
+  rect(mouseX, mouseY, 50, 50);
 }
